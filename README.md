@@ -40,10 +40,12 @@ Use it as the template for submitting your homeworks for instance.
   - [TeXnicCenter](http://www.texniccenter.org) (Windows)
   - [TeXStudio](https://www.texstudio.org/) (cross-platform)
   - [TeXshop](http://pages.uoregon.edu/koch/texshop/) (macOS; which is bundled with MacTeX)
+  - [Visual Studio Code](https://code.visualstudio.com/) as generic editor with the [LaTeX Workshop plugin](https://github.com/James-Yu/LaTeX-Workshop)
 
 ### Managing references
 
   - [JabRef](http://jabref.sourceforge.net) (cross-platform)
+  - [Zotero](https://www.zotero.org/) (cross-platform; integrations for Office and browsers; use a plugin like [better bibtex](https://retorque.re/zotero-better-bibtex/))
 
 ### Drawing figures
 
@@ -53,8 +55,8 @@ Use it as the template for submitting your homeworks for instance.
 
 ### Drawing flowcharts
 
-  - [MathCha](https://www.mathcha.io/)  
-  - [draw.io](https://www.draw.io/)  
+  - [MathCha](https://www.mathcha.io/)
+  - [draw.io](https://www.draw.io/)
 
 ### Help to make tables
 

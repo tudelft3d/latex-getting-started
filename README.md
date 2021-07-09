@@ -8,6 +8,7 @@
 ### Online environment: Overleaf
 
 To start, we recommend you use the [online LaTeX environment Overleaf](https://www.overleaf.com) since it has a full installation of LaTeX and there is nothing to install.
+If you login with your TUDelft email, you get extra features (TUDelft pays for it).
 
 ### Local installation
 
@@ -20,16 +21,16 @@ If you want to use LaTeX locally (it's faster to compile) then you need either:
 
 ## Getting started
 
-Follow the [Overleaf's Learn LaTeX in 30min](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) to start.
+The best is to follow the [Overleaf's Learn LaTeX in 30min](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) to start.
 
 The only crucial thing missing from it is how to add references, for this we suggest you use "natbib" ([tutorial about bibliography management with natbib](https://www.overleaf.com/learn/latex/Bibliography_management_with_natbib)).
 
 
 ## Tips and tricks for LaTeX
 
-The [MSc Geomatics thesis template](https://github.com/tudelft3d/msc_geomatics_thesis_template) has several tips for advanced use of LaTeX.
+In the file `template/mytemplate.tex` you can find tips and tricks to do most of the useful things in \LaTeX.
 
-The file (`chapters/introduction.tex`)[] contains several tips that are useful when using LaTeX, read its source code!
+Use it as the template for submitting your homeworks for instance.
 
 
 ## Which software to use? (if you don't use Overleaf)
@@ -54,7 +55,6 @@ The file (`chapters/introduction.tex`)[] contains several tips that are useful w
 
   - [MathCha](https://www.mathcha.io/)  
   - [draw.io](https://www.draw.io/)  
-
 
 ### Help to draw tables
 

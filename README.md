@@ -28,7 +28,7 @@ The only crucial thing missing from it is how to add references, for this we sug
 
 ## Tips and tricks for LaTeX
 
-In the file `template/mytemplate.tex` you can find tips and tricks to do most of the useful things in \LaTeX.
+In the file `template/mytemplate.tex` you can find tips and tricks to do most of the useful things in LaTeX.
 
 Use it as the template for submitting your homeworks for instance.
 

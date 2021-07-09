@@ -38,7 +38,7 @@ Use it as the template for submitting your homeworks for instance.
 ### Editors
 
   - [TeXnicCenter](http://www.texniccenter.org) (Windows)
-  - [TeXStudio](https://www.texstudio.org/) (Windows)
+  - [TeXStudio](https://www.texstudio.org/) (cross-platform)
   - [TeXshop](http://pages.uoregon.edu/koch/texshop/) (macOS; which is bundled with MacTeX)
   - [Visual Studio Code](https://code.visualstudio.com/) as generic editor with the [LaTeX Workshop plugin](https://github.com/James-Yu/LaTeX-Workshop)
 
@@ -58,7 +58,7 @@ Use it as the template for submitting your homeworks for instance.
   - [MathCha](https://www.mathcha.io/)
   - [draw.io](https://www.draw.io/)
 
-### Help to draw tables
+### Help to make tables
 
   - [Tables Generator](https://www.tablesgenerator.com/) (LaTeX tables are tough to type and align, this helps greatly to start)# latex-getting-started
 Quick LaTeX course

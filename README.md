@@ -40,6 +40,7 @@ Use it as the template for submitting your homeworks for instance.
   - [TeXnicCenter](http://www.texniccenter.org) (Windows)
   - [TeXStudio](https://www.texstudio.org/) (cross-platform)
   - [TeXshop](http://pages.uoregon.edu/koch/texshop/) (macOS; which is bundled with MacTeX)
+  - [VSCode](https://code.visualstudio.com) (cross-platform) The _LaTeX Workshop_ extension offers a great support for creating LaTeX documents
 
 ### Managing references
 

@@ -41,11 +41,13 @@ Use it as the template for submitting your homeworks for instance.
   - [TeXStudio](https://www.texstudio.org/) (cross-platform)
   - [TeXshop](http://pages.uoregon.edu/koch/texshop/) (macOS; which is bundled with MacTeX)
   - [Visual Studio Code](https://code.visualstudio.com/) as generic editor with the [LaTeX Workshop plugin](https://github.com/James-Yu/LaTeX-Workshop)
+  - [Texmaker](https://www.xm1math.net/texmaker/) (cross-platform)
 
 ### Managing references
 
   - [JabRef](http://jabref.sourceforge.net) (cross-platform)
   - [Zotero](https://www.zotero.org/) (cross-platform; integrations for Office and browsers; use a plugin like [better bibtex](https://retorque.re/zotero-better-bibtex/))
+  - [Mendeley](https://www.mendeley.com/)(cross-platform; integrations for Office and browsers; integrates with Overleaf professional accounts)
 
 ### Drawing figures
 
@@ -57,6 +59,10 @@ Use it as the template for submitting your homeworks for instance.
 
   - [MathCha](https://www.mathcha.io/)
   - [draw.io](https://www.draw.io/)
+
+### Equation writers
+
+  - Grapher (macOS Utilities) Graphical interface to write equations that offers the option to copy them as LaTeX expression
 
 ### Help to make tables
 

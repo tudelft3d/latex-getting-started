@@ -42,16 +42,19 @@ Use it as the template for submitting your homeworks for instance.
   - [TeXshop](http://pages.uoregon.edu/koch/texshop/) (macOS; which is bundled with MacTeX)
   - [Visual Studio Code](https://code.visualstudio.com/) as generic editor with the [LaTeX Workshop plugin](https://github.com/James-Yu/LaTeX-Workshop)
   - [Texmaker](https://www.xm1math.net/texmaker/) (cross-platform)
+  - [Sublime Text](https://www.sublimetext.com) (cross-platform; TeX support can be added through [package control](https://packagecontrol.io) with the LaTeXTools package; also with package control you can get a nice linter called SublimeLinter with TeX support through SublimeLinter-chktex)
 
 ### Managing references
 
   - [JabRef](http://jabref.sourceforge.net) (cross-platform)
   - [Zotero](https://www.zotero.org/) (cross-platform; integrations for Office and browsers; use a plugin like [better bibtex](https://retorque.re/zotero-better-bibtex/))
   - [Mendeley](https://www.mendeley.com/)(cross-platform; integrations for Office and browsers; integrates with Overleaf professional accounts)
+  - [BibDesk](https://bibdesk.sourceforge.io) (macOS)
 
 ### Drawing figures
 
   - Adobe Illustrator (nice, but €€€)
+  - [Affinity Designer](https://affinity.serif.com/es/designer/full-feature-list/) (macOS, iPadOS and Windows; €€ but way less than Adobe)
   - [Inkscape](https://inkscape.org/en/) (cross-platform)
   - [IPE](http://ipe.otfried.org/) (cross-platform; integrates LaTeX text; great for triangulation and geometric stuff)
 
@@ -59,10 +62,12 @@ Use it as the template for submitting your homeworks for instance.
 
   - [MathCha](https://www.mathcha.io/)
   - [draw.io](https://www.draw.io/)
+  - [OmniGraffle](https://www.omnigroup.com/omnigraffle) (macOS and iOS; nice, but €€€)
 
 ### Equation writers
 
   - Grapher (macOS Utilities) Graphical interface to write equations that offers the option to copy them as LaTeX expression
+  - LaTeXiT (macOS) utility to write equations in LaTeX and export them for use in other software
 
 ### Help to make tables
 

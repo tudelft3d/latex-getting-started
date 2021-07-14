@@ -33,9 +33,9 @@ In the file `template/mytemplate.tex` you can find tips and tricks to do most of
 Use it as the template for submitting your homeworks for instance.
 
 
-## Which software to use? (if you don't use Overleaf)
+## Which software to use? 
 
-### Editors
+### Editors (if you don't use Overleaf)
 
   - [TeXnicCenter](http://www.texniccenter.org) (Windows)
   - [TeXStudio](https://www.texstudio.org/) (cross-platform)

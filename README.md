@@ -68,6 +68,7 @@ Use it as the template for submitting your homeworks for instance.
 
   - Grapher (macOS Utilities) Graphical interface to write equations that offers the option to copy them as LaTeX expression
   - LaTeXiT (macOS) utility to write equations in LaTeX and export them for use in other software
+  - [Mathpix Snip](https://mathpix.com) (cross-platform) many cool things with equations
 
 ### Help to make tables
 

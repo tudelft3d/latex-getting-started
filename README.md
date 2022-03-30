@@ -48,7 +48,6 @@ Use it as the template for submitting your homeworks for instance.
 
   - [JabRef](http://jabref.sourceforge.net) (cross-platform)
   - [Zotero](https://www.zotero.org/) (cross-platform; integrations for Office and browsers; use a plugin like [better bibtex](https://retorque.re/zotero-better-bibtex/))
-  - [Mendeley](https://www.mendeley.com/) (cross-platform; integrations for Office and browsers; integrates with Overleaf professional accounts)
   - [BibDesk](https://bibdesk.sourceforge.io) (macOS)
 
 ### Drawing figures
